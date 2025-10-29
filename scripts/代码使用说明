@@ -1,0 +1,6 @@
+通过执行python build_exe.py文件可以生成此windows的exe程序。
+  需要python3.9+，
+  pip install pandas，tkinter，openpyxl，pyinstaller，packaging
+原始核心读取excel代码为extract_info_from_excel_V2.py; 
+使用方法：python extract_info_from_excel.py input.xlsx output.xlsx position1-title1 [position2-title2 ...]
+  示例：python .\extract_info_from_excel_V2.py .\test样品检测.xlsx out-labeled-single.xlsx F4-样品名称 N7-类型 F6-进样体积 A15-保留时间 N8-样品含量 N6-位置 E15-峰宽[min] G15-峰面积 H15-峰高 K15-峰面积% C15-类型 G16-总和
