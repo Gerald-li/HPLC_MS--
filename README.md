@@ -1,5 +1,5 @@
 # HPLC_MS--
-从实验室HPLC_MS仪器中生成的高通量筛选数据进行提取
+从实验室HPLC_MS仪器中生成的高通量筛选数据的excel表中提取特定数据
 
 <img width="806" height="736" alt="image" src="https://github.com/user-attachments/assets/851eea0d-e04e-4bc5-b517-1c0f306da588" />
 
